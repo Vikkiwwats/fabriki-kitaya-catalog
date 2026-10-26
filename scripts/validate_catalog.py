@@ -4,7 +4,7 @@ import pathlib
 import re
 
 root = pathlib.Path(__file__).resolve().parents[1]
-dist = root / "dist"
+dist = root / "docs"
 products = json.loads((dist / "data/products.json").read_text())
 ids = [p["id"] for p in products]
 assert len(ids) == len(set(ids)), "Duplicate product identifiers"

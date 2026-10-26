@@ -7,4 +7,6 @@ upload/
 *.xls
 *.csv
 *.zip
-dist/responsive-qa.html
+docs/responsive-qa.html
+.openai/
+.DS_Store

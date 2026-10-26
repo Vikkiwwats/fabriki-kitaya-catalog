@@ -15,10 +15,14 @@ for product in products:
     assert re.fullmatch(r"FK-[A-Z]\d{3,8}", product["id"])
     assert re.fullmatch(r"FK-C\d{2,5}", product["collection"])
     assert product["title"] and product["category"] and product["subcategory"]
-    for image in product["images"]:
-        assert re.fullmatch(r"assets/products/[a-z0-9-]+\.webp", image)
-        assert (dist / image).is_file(), image
-    assert product["image"] in product["images"]
+    images = product["images"]
+    if images:
+        for image in images:
+            assert re.fullmatch(r"assets/products/[a-z0-9-]+\.webp", image)
+            assert (dist / image).is_file(), image
+        assert product["image"] in images
+    else:
+        assert product["category"] == "Автозапчасти" and product["image"] == "", "Missing photo only allowed for unverified auto parts"
     text = json.dumps(product, ensure_ascii=False)
     assert not re.search(r"https?://|@|[\u3400-\u9fff]|\.pdf|\.xlsx", text), (product["id"], "Source identity or external link")
 for path in dist.rglob("*"):

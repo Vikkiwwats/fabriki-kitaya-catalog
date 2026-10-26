@@ -1,0 +1,10 @@
+node_modules/
+.sites-runtime/
+internal/
+upload/
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.zip
+dist/responsive-qa.html

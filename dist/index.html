@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f42b16">
+  <meta name="description" content="Каталог товаров Фабрик Китая. Откройте новые идеи для ассортимента, соберите свою подборку и скачайте её в PDF для расчёта поставки.">
+  <title>Каталог товаров — Фабрики Китая</title>
+  <link rel="icon" type="image/svg+xml" href="assets/brand-mark.svg">
+  <link rel="preload" href="assets/fonts/TildaSans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#catalog">Перейти к товарам</a>
+  <div class="topline"><span>От идеи до поставки — с Фабриками Китая</span><a href="https://fabriki-kitaya.com/" target="_blank" rel="noopener">Основной сайт <span aria-hidden="true">↗</span></a></div>
+  <header class="header">
+    <a class="brand" href="#" aria-label="Фабрики Китая — главная"><img src="assets/brand-logo.svg" width="289" height="69" alt="Фабрики Китая"><span class="brand-divider"></span><span class="brand-caption">Каталог<br>товаров</span></a>
+    <nav class="desktop-nav" aria-label="Основная навигация"><a href="#directions">Разделы</a><a href="#ideas">Идеи для ассортимента</a><a href="#how">Как выбрать</a></nav>
+    <button class="selection-trigger button dark" data-action="selection"><span class="icon" data-icon="bag"></span><span>Моя подборка</span><b class="selection-count">0</b></button>
+  </header>
+
+  <main>
+    <section class="hero wrap">
+      <div class="hero-copy">
+        <div class="eyebrow"><i></i> БОЛЬШОЙ ВЫБОР ДЛЯ ВАШЕГО БИЗНЕСА</div>
+        <h1>Больше идей.<br><span>Точнее выбор.</span></h1>
+        <p>Откройте новые товары для своего ассортимента.<br class="desktop-only"> Соберите подборку — мы поможем с закупкой и доставкой.</p>
+        <form class="hero-search" role="search" id="hero-search"><span class="icon" data-icon="search"></span><label class="sr-only" for="hero-query">Поиск по каталогу</label><input id="hero-query" name="q" type="search" placeholder="Например, вафельница или коляска" autocomplete="off"><button aria-label="Найти товары" type="submit"><span data-icon="arrow" class="icon"></span></button></form>
+        <div class="quick-search"><span>Или начните с идеи:</span><button data-idea="breakfast">К завтраку ↗</button><button data-idea="walk">На прогулку ↗</button></div>
+        <div class="hero-bottom"><span class="tiny-symbol" aria-hidden="true">✳</span><span>Выбирайте из разных разделов.<br><strong>Всё нужное — в одном PDF.</strong></span></div>
+      </div>
+      <div class="hero-art" aria-label="Товары из каталога">
+        <div class="hero-orbit" aria-hidden="true"></div><div class="orbit-label" aria-hidden="true">НОВЫЙ ВЗГЛЯД НА ВАШ АССОРТИМЕНТ</div>
+        <div class="hero-product hero-product-back"><span class="hero-product-label">Для дома <span>↗</span></span><img id="hero-home-image" alt="Товар для кухни из каталога" fetchpriority="high"></div>
+        <div class="hero-product hero-product-front"><span class="hero-product-label">Для прогулок <span>↗</span></span><img id="hero-baby-image" alt="Детская коляска из каталога" fetchpriority="high"></div>
+        <div class="hero-sticker"><span class="icon" data-icon="check"></span><span>Ваш следующий<br><b>удачный выбор</b></span></div>
+        <span class="art-spark spark-one" aria-hidden="true">✳</span><span class="art-spark spark-two" aria-hidden="true">+</span>
+      </div>
+    </section>
+
+    <div class="promise-strip"><div class="wrap"><span><i data-icon="layers" class="icon"></i> Разные категории — одна подборка</span><span><i data-icon="file" class="icon"></i> PDF с фото и артикулами</span><span><i data-icon="message" class="icon"></i> Расчёт с персональным менеджером</span></div></div>
+
+    <section class="section wrap" id="directions">
+      <div class="section-heading"><div><div class="eyebrow muted">НАЧНИТЕ С ГЛАВНОГО</div><h2>Выберите направление<span class="red">.</span></h2></div><button class="text-link" data-category="">Весь каталог <span>↗</span></button></div>
+      <div class="direction-grid" id="direction-grid"><div class="skeleton direction-skeleton"></div><div class="skeleton direction-skeleton"></div><div class="skeleton direction-skeleton"></div></div>
+    </section>
+
+    <section class="ideas-section" id="ideas"><div class="wrap section">
+      <div class="section-heading"><div><div class="eyebrow muted">НЕМНОГО ВДОХНОВЕНИЯ</div><h2>Посмотрите шире<span class="red">.</span></h2></div><p class="heading-note">Подборки по сценариям — чтобы находить<br>интересное и за пределами привычного раздела.</p></div>
+      <div class="idea-grid" id="idea-grid"></div>
+    </div></section>
+
+    <section class="section wrap catalog-section" id="catalog">
+      <div class="section-heading catalog-heading"><div><div class="eyebrow muted">ВЫБИРАЙТЕ В СВОЁМ ТЕМПЕ</div><h2 id="catalog-title">Все товары<span class="red">.</span></h2></div><span class="result-count" id="result-count" role="status" aria-live="polite">Загружаем каталог…</span></div>
+      <div class="catalog-toolbar"><label class="catalog-search"><span data-icon="search" class="icon"></span><span class="sr-only">Найти товар</span><input id="catalog-query" type="search" placeholder="Название, характеристика или артикул" autocomplete="off"></label><button class="mobile-filter button outline" id="mobile-filter" aria-expanded="false"><span data-icon="sliders" class="icon"></span>Фильтры</button><label class="sort-label"><span>Порядок:</span><select id="sort"><option value="curated">Выбор редакции</option><option value="name">По названию А–Я</option><option value="code">По артикулу</option></select></label></div>
+      <div class="catalog-layout"><aside class="filters" id="filters" aria-label="Фильтры каталога"><div class="filter-heading">Категории<button id="reset-filters" class="reset">Сбросить</button></div><div id="category-filters"></div><div class="filter-separator"></div><div class="filter-heading">Подборки</div><div id="idea-filters"></div><div class="filter-help"><span data-icon="message" class="icon"></span><b>Нужен другой товар?</b><p>Пришлите фото или описание — обсудим поиск под вашу задачу.</p><a href="mailto:sales@fabriki-kitaya.com">Обсудить с менеджером ↗</a></div></aside>
+        <div class="catalog-results"><div id="active-filters" class="active-filters"></div><div class="products-grid" id="products-grid" aria-live="polite"></div><div id="empty-state" class="empty-state" hidden><span data-icon="search" class="icon"></span><h3>Пока ничего не нашли</h3><p>Попробуйте другое название или уберите часть фильтров.</p><button class="button dark" data-action="reset">Показать все товары</button></div><div class="load-more"><button class="button outline" id="load-more" hidden>Показать ещё</button><span id="shown-count"></span></div></div>
+      </div>
+    </section>
+
+    <section class="how-section wrap" id="how"><div class="how-intro"><div class="eyebrow">ОТ ВЫБОРА К РАСЧЁТУ</div><h2>Ваш ассортимент.<br>Ваша подборка.</h2><p>Никакой регистрации. Просто сохраняйте то, что подходит вашему бизнесу.</p><button class="button white" data-action="selection">Открыть мою подборку <span data-icon="arrow" class="icon"></span></button></div><div class="how-steps"><div><span>01</span><h3>Находите своё</h3><p>Исследуйте разделы, используйте фильтры или вдохновляйтесь подборками.</p></div><div><span>02</span><h3>Собирайте вместе</h3><p>Добавляйте товары, указывайте количество и пожелания.</p></div><div><span>03</span><h3>Скачивайте PDF</h3><p>Сохраните файл и отправьте менеджеру для уточнения условий и расчёта поставки.</p></div></div></section>
+    <section class="closing wrap"><span class="closing-symbol" aria-hidden="true">✳</span><div><h2>Хороший ассортимент начинается с идеи.</h2><p>Воплотить её поможем мы.</p></div><a href="mailto:sales@fabriki-kitaya.com" class="button dark">Обсудить закупку <span data-icon="arrow" class="icon"></span></a></section>
+  </main>
+  <footer class="footer"><div class="wrap footer-top"><img src="assets/brand-logo.svg" width="289" height="69" alt="Фабрики Китая"><p>Товары, идеи и решения<br>для вашего бизнеса.</p><a href="https://fabriki-kitaya.com/" target="_blank" rel="noopener">Сайт компании ↗</a><a href="mailto:sales@fabriki-kitaya.com">sales@fabriki-kitaya.com</a></div><div class="wrap footer-bottom"><span>© <span id="year">2026</span> Фабрики Китая</span><span>Ассортимент представлен для ознакомления. Условия, комплектацию и возможность поставки уточняйте у менеджера.</span></div></footer>
+
+  <div class="floating-selection" id="floating-selection" hidden><button class="button dark" data-action="selection"><span data-icon="bag" class="icon"></span><span>В подборке <b class="selection-count">0</b></span><span class="floating-label">Посмотреть и скачать</span><span>↗</span></button></div>
+  <dialog class="product-dialog" id="product-dialog" aria-labelledby="product-modal-title"><button class="close" data-close="product-dialog" aria-label="Закрыть карточку"><span data-icon="close" class="icon"></span></button><div id="product-content"></div></dialog>
+  <dialog class="selection-dialog" id="selection-dialog" aria-labelledby="selection-title"><div class="drawer-heading"><div><div class="eyebrow muted">ВСЁ, ЧТО ВЫ ВЫБРАЛИ</div><h2 id="selection-title">Моя подборка <span class="selection-count">0</span></h2></div><button class="close" data-close="selection-dialog" aria-label="Закрыть подборку"><span data-icon="close" class="icon"></span></button></div><div class="drawer-scroll"><div id="storage-status" class="storage-status"></div><div id="selection-items"></div><div id="selection-fields" hidden><label class="field-label">Название подборки<input id="selection-name" maxlength="90" placeholder="Например, ассортимент для новой коллекции"></label><label class="field-label">Комментарий менеджеру<textarea id="selection-note" maxlength="800" rows="3" placeholder="Сроки, варианты исполнения и другие пожелания"></textarea></label><div class="selection-tools"><button id="save-selection"><span data-icon="save" class="icon"></span>Сохранить для продолжения</button><button data-action="import"><span data-icon="upload" class="icon"></span>Открыть сохранённую</button></div><p class="selection-explain">Автосохранение действует в этом браузере и может пропасть после очистки данных сайта. Файл подборки позволяет продолжить выбор на другом устройстве. PDF удобно отправить менеджеру.</p><button class="clear-selection" id="clear-selection">Очистить подборку</button></div></div><div class="drawer-footer"><button class="button red-button" id="export-pdf" disabled><span data-icon="download" class="icon"></span><span>Подготовить PDF</span></button><button id="pdf-download" class="button red-button" hidden><span data-icon="download" class="icon"></span>Скачать готовый PDF</button><a href="mailto:sales@fabriki-kitaya.com" class="manager-link">Контакт менеджера: sales@fabriki-kitaya.com ↗</a><p>PDF сохранится на ваше устройство. Отправьте его менеджеру самостоятельно.</p></div></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><div class="noscript">Для поиска, подборки и скачивания PDF включите JavaScript в браузере.</div></noscript>
+</body>
+</html>

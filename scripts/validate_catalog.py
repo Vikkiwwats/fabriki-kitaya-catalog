@@ -49,7 +49,7 @@ for path in dist.rglob("*"):
         continue
     assert path.suffix.lower() not in {".pdf", ".xlsx", ".xls", ".csv"}, "Source file in published folder"
     assert not re.search(r"private|supplier|original|source-map|stroller-2023", str(path.relative_to(dist)), re.I), "Internal file in published folder"
-    if path.suffix in {".webp", ".png"}:
+    if path.suffix in {".webp", ".png", ".jpg", ".jpeg"}:
         from PIL import Image
         with Image.open(path) as im:
             assert not im.getexif(), "Image contains EXIF"

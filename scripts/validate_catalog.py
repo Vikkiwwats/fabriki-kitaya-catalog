@@ -5,7 +5,7 @@ import re
 
 root = pathlib.Path(__file__).resolve().parents[1]
 dist = root / "docs"
-products = json.loads((dist / "data/products.json").read_text()) + json.loads((dist / "data/autoparts.json").read_text()) + json.loads((dist / "data/tires.json").read_text())
+products = json.loads((dist / "data/products.json").read_text()) + json.loads((dist / "data/autoparts.json").read_text()) + json.loads((dist / "data/tires.json").read_text()) + json.loads((dist / "data/jewelry.json").read_text())
 ids = [p["id"] for p in products]
 assert len(ids) == len(set(ids)), "Duplicate product identifiers"
 assert products, "Catalog must contain products"
@@ -32,7 +32,7 @@ for product in products:
             else:
                 raise AssertionError("Unsupported atlas category")
     else:
-        assert product["category"] == "Автозапчасти" and product["image"] == "", "Missing photo only allowed for unverified auto parts"
+        assert product["category"] in ("Автозапчасти", "Бижутерия") and product["image"] == "", "Missing photo allowed only during image transfer"
     text = json.dumps(product, ensure_ascii=False)
     assert not re.search(r"https?://|@|[\u3400-\u9fff]|\.pdf|\.xlsx", text), (product["id"], "Source identity or external link")
 for path in dist.rglob("*"):

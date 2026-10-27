@@ -5,7 +5,7 @@ import re
 
 root = pathlib.Path(__file__).resolve().parents[1]
 dist = root / "docs"
-products = json.loads((dist / "data/products.json").read_text()) + json.loads((dist / "data/autoparts.json").read_text())
+products = json.loads((dist / "data/products.json").read_text()) + json.loads((dist / "data/autoparts.json").read_text()) + json.loads((dist / "data/tires.json").read_text())
 ids = [p["id"] for p in products]
 assert len(ids) == len(set(ids)), "Duplicate product identifiers"
 assert products, "Catalog must contain products"
@@ -22,9 +22,15 @@ for product in products:
             assert (dist / image).is_file(), image
         assert product["image"] in images
         if "imageIndex" in product:
-            assert product["category"] == "Автозапчасти"
-            assert product["image"] == "assets/products/geely-sc7-engine-atlas.png"
-            assert isinstance(product["imageIndex"], int) and 0 <= product["imageIndex"] < 56
+            assert isinstance(product["imageIndex"], int)
+            if product["category"] == "Автозапчасти":
+                assert product["image"] == "assets/products/geely-sc7-engine-atlas.png"
+                assert 0 <= product["imageIndex"] < 56
+            elif product["category"] == "Шины":
+                assert product["image"] == "assets/products/tires-patterns-atlas.webp"
+                assert 0 <= product["imageIndex"] < 73
+            else:
+                raise AssertionError("Unsupported atlas category")
     else:
         assert product["category"] == "Автозапчасти" and product["image"] == "", "Missing photo only allowed for unverified auto parts"
     text = json.dumps(product, ensure_ascii=False)

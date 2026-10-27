@@ -7,8 +7,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -25,7 +27,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 0
   },
   {
     "id": "FK-J0002",
@@ -35,8 +38,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -53,7 +58,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 1
   },
   {
     "id": "FK-J0003",
@@ -63,8 +69,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -81,7 +89,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 2
   },
   {
     "id": "FK-J0004",
@@ -91,8 +100,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -109,7 +120,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 3
   },
   {
     "id": "FK-J0005",
@@ -119,8 +131,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -137,7 +151,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 4
   },
   {
     "id": "FK-J0006",
@@ -147,8 +162,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -165,7 +182,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 5
   },
   {
     "id": "FK-J0007",
@@ -175,8 +193,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -193,7 +213,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 6
   },
   {
     "id": "FK-J0008",
@@ -203,8 +224,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -221,7 +244,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 7
   },
   {
     "id": "FK-J0009",
@@ -231,8 +255,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -249,7 +275,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 8
   },
   {
     "id": "FK-J0010",
@@ -259,8 +286,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -277,7 +306,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 9
   },
   {
     "id": "FK-J0011",
@@ -287,8 +317,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -305,7 +337,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 10
   },
   {
     "id": "FK-J0012",
@@ -315,8 +348,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -333,7 +368,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 11
   },
   {
     "id": "FK-J0013",
@@ -343,8 +379,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -361,7 +399,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 12
   },
   {
     "id": "FK-J0014",
@@ -371,8 +410,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -389,7 +430,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 13
   },
   {
     "id": "FK-J0015",
@@ -399,8 +441,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -417,7 +461,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 14
   },
   {
     "id": "FK-J0016",
@@ -427,8 +472,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-001.webp",
+    "images": [
+      "assets/products/jewelry-photos-001.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -445,7 +492,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 15
   },
   {
     "id": "FK-J0017",
@@ -455,8 +503,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -473,7 +523,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 0
   },
   {
     "id": "FK-J0018",
@@ -483,8 +534,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -501,7 +554,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 1
   },
   {
     "id": "FK-J0019",
@@ -511,8 +565,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -529,7 +585,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 2
   },
   {
     "id": "FK-J0020",
@@ -539,8 +596,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -557,7 +616,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 3
   },
   {
     "id": "FK-J0021",
@@ -567,8 +627,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -585,7 +647,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 4
   },
   {
     "id": "FK-J0022",
@@ -595,8 +658,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -613,7 +678,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 5
   },
   {
     "id": "FK-J0023",
@@ -623,8 +689,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -641,7 +709,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 6
   },
   {
     "id": "FK-J0024",
@@ -651,8 +720,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -669,7 +740,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 7
   },
   {
     "id": "FK-J0025",
@@ -679,8 +751,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -697,7 +771,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 8
   },
   {
     "id": "FK-J0026",
@@ -707,8 +782,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -725,7 +802,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 9
   },
   {
     "id": "FK-J0027",
@@ -735,8 +813,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -753,7 +833,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 10
   },
   {
     "id": "FK-J0028",
@@ -763,8 +844,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -781,7 +864,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 11
   },
   {
     "id": "FK-J0029",
@@ -791,8 +875,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -809,7 +895,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 12
   },
   {
     "id": "FK-J0030",
@@ -819,8 +906,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -837,7 +926,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 13
   },
   {
     "id": "FK-J0031",
@@ -847,8 +937,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -865,7 +957,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 14
   },
   {
     "id": "FK-J0032",
@@ -875,8 +968,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-002.webp",
+    "images": [
+      "assets/products/jewelry-photos-002.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -893,7 +988,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 15
   },
   {
     "id": "FK-J0033",
@@ -903,8 +999,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -921,7 +1019,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 0
   },
   {
     "id": "FK-J0034",
@@ -931,8 +1030,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -949,7 +1050,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 1
   },
   {
     "id": "FK-J0035",
@@ -959,8 +1061,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -977,7 +1081,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 2
   },
   {
     "id": "FK-J0036",
@@ -987,8 +1092,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1005,7 +1112,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 3
   },
   {
     "id": "FK-J0037",
@@ -1015,8 +1123,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1033,7 +1143,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 4
   },
   {
     "id": "FK-J0038",
@@ -1043,8 +1154,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1061,7 +1174,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 5
   },
   {
     "id": "FK-J0039",
@@ -1071,8 +1185,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1089,7 +1205,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 6
   },
   {
     "id": "FK-J0040",
@@ -1099,8 +1216,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1117,7 +1236,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 7
   },
   {
     "id": "FK-J0041",
@@ -1127,8 +1247,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1145,7 +1267,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 8
   },
   {
     "id": "FK-J0042",
@@ -1155,8 +1278,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1173,7 +1298,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 9
   },
   {
     "id": "FK-J0043",
@@ -1183,8 +1309,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1201,7 +1329,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 10
   },
   {
     "id": "FK-J0044",
@@ -1211,8 +1340,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1229,7 +1360,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 11
   },
   {
     "id": "FK-J0045",
@@ -1239,8 +1371,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1257,7 +1391,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 12
   },
   {
     "id": "FK-J0046",
@@ -1267,8 +1402,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1285,7 +1422,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 13
   },
   {
     "id": "FK-J0047",
@@ -1295,8 +1433,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1313,7 +1453,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 14
   },
   {
     "id": "FK-J0048",
@@ -1323,8 +1464,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-003.webp",
+    "images": [
+      "assets/products/jewelry-photos-003.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1341,7 +1484,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 15
   },
   {
     "id": "FK-J0049",
@@ -1351,8 +1495,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1369,7 +1515,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 0
   },
   {
     "id": "FK-J0050",
@@ -1379,8 +1526,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1397,7 +1546,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 1
   },
   {
     "id": "FK-J0051",
@@ -1407,8 +1557,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1425,7 +1577,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 2
   },
   {
     "id": "FK-J0052",
@@ -1435,8 +1588,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1453,7 +1608,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 3
   },
   {
     "id": "FK-J0053",
@@ -1463,8 +1619,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1481,7 +1639,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 4
   },
   {
     "id": "FK-J0054",
@@ -1491,8 +1650,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1509,7 +1670,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 5
   },
   {
     "id": "FK-J0055",
@@ -1519,8 +1681,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1537,7 +1701,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 6
   },
   {
     "id": "FK-J0056",
@@ -1547,8 +1712,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1565,7 +1732,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 7
   },
   {
     "id": "FK-J0057",
@@ -1575,8 +1743,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1593,7 +1763,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 8
   },
   {
     "id": "FK-J0058",
@@ -1603,8 +1774,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1621,7 +1794,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 9
   },
   {
     "id": "FK-J0059",
@@ -1631,8 +1805,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1649,7 +1825,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 10
   },
   {
     "id": "FK-J0060",
@@ -1659,8 +1836,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1677,7 +1856,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 11
   },
   {
     "id": "FK-J0061",
@@ -1687,8 +1867,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1705,7 +1887,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 12
   },
   {
     "id": "FK-J0062",
@@ -1715,8 +1898,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1733,7 +1918,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 13
   },
   {
     "id": "FK-J0063",
@@ -1743,8 +1929,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1761,7 +1949,8 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 14
   },
   {
     "id": "FK-J0064",
@@ -1771,8 +1960,10 @@
     "collection": "FK-C07",
     "collectionName": "Браслеты на ногу",
     "description": "Декоративный браслет на ногу из каталога украшений. Дизайн представлен на фотографии; материал, длина и варианты исполнения уточняются при заказе.",
-    "image": "",
-    "images": [],
+    "image": "assets/products/jewelry-photos-004.webp",
+    "images": [
+      "assets/products/jewelry-photos-004.webp"
+    ],
     "specs": [
       {
         "label": "Тип",
@@ -1789,6 +1980,7 @@
       "украшения",
       "бижутерия"
     ],
-    "sourceRevision": "2026-10-27"
+    "sourceRevision": "2026-10-27",
+    "imageIndex": 15
   }
 ]

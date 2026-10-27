@@ -5,7 +5,7 @@ import re
 
 root = pathlib.Path(__file__).resolve().parents[1]
 dist = root / "docs"
-products = json.loads((dist / "data/products.json").read_text()) + json.loads((dist / "data/autoparts.json").read_text()) + json.loads((dist / "data/tires.json").read_text()) + json.loads((dist / "data/jewelry.json").read_text())
+products = json.loads((dist / "data/products.json").read_text()) + json.loads((dist / "data/autoparts.json").read_text()) + json.loads((dist / "data/tires.json").read_text()) + json.loads((dist / "data/jewelry.json").read_text()) + json.loads((dist / "data/bathroom.json").read_text())
 ids = [p["id"] for p in products]
 assert len(ids) == len(set(ids)), "Duplicate product identifiers"
 assert products, "Catalog must contain products"
@@ -29,6 +29,9 @@ for product in products:
             elif product["category"] == "Шины":
                 assert product["image"] == "assets/products/tires-patterns-atlas.webp"
                 assert 0 <= product["imageIndex"] < 73
+            elif product["category"] == "Ванная":
+                assert re.fullmatch(r"assets/products/bathroom-photos-\d{3}\.webp", product["image"])
+                assert 0 <= product["imageIndex"] < 16
             else:
                 raise AssertionError("Unsupported atlas category")
     else:

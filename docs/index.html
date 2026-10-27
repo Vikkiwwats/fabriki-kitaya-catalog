@@ -8,8 +8,8 @@
   <title>Каталог товаров — Фабрики Китая</title>
   <link rel="icon" type="image/svg+xml" href="assets/brand-mark.svg">
   <link rel="preload" href="assets/fonts/TildaSans.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="styles.css">
-  <script defer src="app.js"></script>
+  <link rel="stylesheet" href="styles.css?v=20261027-holiday-1">
+  <script defer src="app.js?v=20261027-holiday-1"></script>
 </head>
 <body>
   <a class="skip" href="#catalog">Перейти к товарам</a>
@@ -52,10 +52,15 @@
     </div></section>
 
     <section class="section wrap catalog-section" id="catalog">
-      <div class="section-heading catalog-heading"><div><div class="eyebrow muted">ВЫБИРАЙТЕ В СВОЁМ ТЕМПЕ</div><h2 id="catalog-title">Все товары<span class="red">.</span></h2></div><span class="result-count" id="result-count" role="status" aria-live="polite">Загружаем каталог…</span></div>
+      <div class="section-heading catalog-heading"><div><div class="eyebrow muted" id="catalog-eyebrow">ВЫБИРАЙТЕ В СВОЁМ ТЕМПЕ</div><h2 id="catalog-title">Все товары<span class="red">.</span></h2></div><span class="result-count" id="result-count" role="status" aria-live="polite">Загружаем каталог…</span></div>
+      <div class="holiday-feature" id="holiday-feature" hidden>
+        <div class="holiday-copy"><span class="holiday-kicker"><i aria-hidden="true">✦</i> НОВОГОДНЯЯ КОЛЛЕКЦИЯ</span><h3>Время маленьких<br><em>чудес.</em></h3><p>Фигурки, гирлянды и ёлочные украшения.<br>Соберите свой праздничный ассортимент.</p><span class="holiday-caption">Выбирайте с настроением · сохраняйте в подборку</span></div>
+        <img class="holiday-art" src="assets/holiday-ornaments.svg" width="720" height="440" alt="" aria-hidden="true"><span class="holiday-spark" aria-hidden="true">✦</span>
+      </div>
+      <nav class="holiday-navigation" id="holiday-navigation" aria-label="Новогодние категории" hidden></nav>
       <div class="catalog-toolbar"><label class="catalog-search"><span data-icon="search" class="icon"></span><span class="sr-only">Найти товар</span><input id="catalog-query" type="search" placeholder="Название, характеристика или артикул" autocomplete="off"></label><button class="mobile-filter button outline" id="mobile-filter" aria-expanded="false"><span data-icon="sliders" class="icon"></span>Фильтры</button><label class="sort-label"><span>Порядок:</span><select id="sort"><option value="curated">Выбор редакции</option><option value="name">По названию А–Я</option><option value="code">По артикулу</option></select></label></div>
       <div class="catalog-layout"><aside class="filters" id="filters" aria-label="Фильтры каталога"><div class="filter-heading">Категории<button id="reset-filters" class="reset">Сбросить</button></div><div id="category-filters"></div><div class="filter-separator"></div><div class="filter-heading">Подборки</div><div id="idea-filters"></div><div class="filter-help"><span data-icon="message" class="icon"></span><b>Нужен другой товар?</b><p>Пришлите фото или описание — обсудим поиск под вашу задачу.</p><a href="mailto:sales@fabriki-kitaya.com">Обсудить с менеджером ↗</a></div></aside>
-        <div class="catalog-results"><div id="active-filters" class="active-filters"></div><div class="products-grid" id="products-grid" aria-live="polite"></div><div id="empty-state" class="empty-state" hidden><span data-icon="search" class="icon"></span><h3>Пока ничего не нашли</h3><p>Попробуйте другое название или уберите часть фильтров.</p><button class="button dark" data-action="reset">Показать все товары</button></div><div class="load-more"><button class="button outline" id="load-more" hidden>Показать ещё</button><span id="shown-count"></span></div></div>
+        <div class="catalog-results"><div class="protected-category" id="protected-category" hidden><span class="protected-icon icon" data-icon="file" aria-hidden="true"></span><span class="protected-kicker">ОТДЕЛЬНЫЙ КАТАЛОГ</span><h3>Протезы и бельё</h3><p>Внутри — фотографии изделий и учебных моделей.<br>Откройте товары, когда будете готовы к просмотру.</p><button class="button dark" data-action="reveal-category">Показать товары раздела <span aria-hidden="true">↗</span></button><button class="protected-back" data-category="">Вернуться к общему каталогу</button></div><div id="active-filters" class="active-filters"></div><div class="products-grid" id="products-grid" aria-live="polite"></div><div id="empty-state" class="empty-state" hidden><span data-icon="search" class="icon"></span><h3>Пока ничего не нашли</h3><p>Попробуйте другое название или уберите часть фильтров.</p><button class="button dark" data-action="reset">Показать все товары</button></div><div class="load-more"><button class="button outline" id="load-more" hidden>Показать ещё</button><span id="shown-count"></span></div></div>
       </div>
     </section>
 

@@ -35,10 +35,13 @@ for product in products:
             elif product["category"] == "Бижутерия":
                 assert re.fullmatch(r"assets/products/jewelry-photos-\d{3}\.webp", product["image"])
                 assert 0 <= product["imageIndex"] < 16
+            elif product["category"] == "Новый год":
+                assert re.fullmatch(r"assets/products/newyear-photos-\d{3}\.webp", product["image"])
+                assert 0 <= product["imageIndex"] < 16
             else:
                 raise AssertionError("Unsupported atlas category")
     else:
-        assert product["category"] in ("Автозапчасти", "Новый год") and product["image"] == "", "Missing photo only for documented pending images"
+        assert product["category"] == "Автозапчасти" and product["image"] == "", "Missing photo only for documented pending images"
     text = json.dumps(product, ensure_ascii=False)
     assert not re.search(r"https?://|@|[\u3400-\u9fff]|\.pdf|\.xlsx", text), (product["id"], "Source identity or external link")
 for path in dist.rglob("*"):

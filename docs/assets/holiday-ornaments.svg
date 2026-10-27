@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+ <defs>
+  <radialGradient id="red" cx=".3" cy=".22" r=".8"><stop stop-color="#ff8672"/><stop offset=".32" stop-color="#e54432"/><stop offset=".72" stop-color="#a91817"/><stop offset="1" stop-color="#691e21"/></radialGradient>
+  <radialGradient id="gold" cx=".28" cy=".2" r=".8"><stop stop-color="#fff8d8"/><stop offset=".32" stop-color="#e6c87c"/><stop offset=".7" stop-color="#b18b3e"/><stop offset="1" stop-color="#785b2c"/></radialGradient>
+  <radialGradient id="cream" cx=".28" cy=".2" r=".8"><stop stop-color="#fffdf3"/><stop offset=".55" stop-color="#f3e7c8"/><stop offset="1" stop-color="#c9b78c"/></radialGradient>
+  <linearGradient id="pine" x1="50" y1="0" x2="630" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#122e29"/><stop offset=".55" stop-color="#47705b"/><stop offset="1" stop-color="#18382e"/></linearGradient>
+  <filter id="shadow" x="-50%" y="-30%" width="200%" height="180%"><feDropShadow dx="8" dy="17" stdDeviation="12" flood-color="#173b2c" flood-opacity=".16"/></filter>
+  <g id="sprig" stroke="url(#pine)" stroke-linecap="round">
+   <path d="M0 0 158 3" stroke-width="3"/>
+   <path d="m16 0 19-25m-10 25 24-40M41 0l26-46M57 1l31-46M73 1l32-39M90 2l30-33m-10 34 28-22m-16 23 24-13M15 0l20 24M31 1l27 35M49 1l32 39M66 1l35 34M85 2l35 29m-18-29 34 22m-15-21 23 14" stroke-width="2.3"/>
+  </g>
+  <g id="star" stroke="#d6b76b" stroke-width="1.8"><path d="M0-13 3-3 13 0 3 3 0 13-3 3-13 0-3-3Z"/></g>
+ </defs>
+ <g opacity=".9"><use href="#sprig" transform="translate(720 20) rotate(166) scale(2)"/><use href="#sprig" transform="translate(690 7) rotate(132) scale(1.6)"/><use href="#sprig" transform="translate(470 0) rotate(154) scale(1.5)"/><use href="#sprig" transform="translate(720 75) rotate(182) scale(1.4)"/></g>
+ <path d="M267 0v94M466 14v146M600 65v51" stroke="#bea16a" stroke-width="1.3"/>
+ <g filter="url(#shadow)">
+  <rect x="254" y="93" width="26" height="18" rx="3" fill="#b89b62"/><path d="M258 97v10m6-10v10m6-10v10m6-10v10" stroke="#ead8a8"/>
+  <circle cx="267" cy="194" r="87" fill="url(#red)"/>
+  <path d="M189 154c48 35 104 35 156 0M182 188c50 35 116 36 169 0m-163 36c47 33 103 33 157 0" stroke="#efd8a2" stroke-width="1.6" opacity=".75"/>
+  <path d="m228 192 8-8 8 8-8 8-8-8Zm41 13 8-8 8 8-8 8-8-8Zm40-13 8-8 8 8-8 8-8-8Z" fill="#e6c68c"/>
+  <ellipse cx="225" cy="151" rx="12" ry="24" transform="rotate(32 225 151)" fill="white" opacity=".16"/>
+  <rect x="453" y="158" width="26" height="18" rx="3" fill="#aa8d52"/>
+  <circle cx="466" cy="259" r="87" fill="url(#gold)"/>
+  <path d="M466 172c-61 64-61 113 0 174m0-174c-32 64-32 113 0 174m0-174c32 64 32 113 0 174m0-174c61 64 61 113 0 174" stroke="#fff3cf" opacity=".4" stroke-width="1.4"/>
+  <rect x="589" y="113" width="22" height="16" rx="3" fill="#b89b62"/><circle cx="600" cy="187" r="62" fill="url(#cream)"/>
+  <g transform="translate(600 187)" stroke="#a4894b" stroke-width="1.7"><path d="M0-29v58m-25-43 50 29m-50 0 50-29M0-20l-7-6m7 6 7-6M0 20l-7 6m7-6 7 6m-25-36-1-9m1 9-9 2m36 12 9-2m-9 2 1 9m-36-9-9-2m9 2-1 9m36-36 1-9m-1 9 9 2"/></g>
+ </g>
+ <g><use href="#star" transform="translate(123 150) scale(.8)"/><use href="#star" transform="translate(380 107) scale(.55)"/><use href="#star" transform="translate(564 363)"/><use href="#star" transform="translate(171 312) scale(.6)"/><circle cx="365" cy="330" r="3" fill="#c5a25b"/><circle cx="680" cy="284" r="3" fill="#c5a25b"/><circle cx="131" cy="253" r="2" fill="#c5a25b"/></g>
+ <path d="M390 386c78-21 181-14 239 8" stroke="#c7aa72" opacity=".4"/>
+</svg>
